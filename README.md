@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcin Juranek
 - 👀 I’m interested in programing, analisis and architecture
-- 🌱 I’m currently interesting Event Storming and creating universal data access librrary 
+- 🌱 I’m currently interesting Event Storming and I explore .net 5
 - 📫 How to find me www.ismartdev.pl
 
 <!---
