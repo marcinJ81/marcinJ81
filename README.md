@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marcin Juranek
-- 👀 I’m interested in programing, analisis and architecture
-- 🌱 I’m currently interesting Event Storming 
+- 👀 I’m interested in programing, analisis
 - 📫 How to find me www.ismartdev.pl
 
 <!---
